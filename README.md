@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning SQL 
 - 💞️ I’m looking to collaborate on database
 - 📫 You can reach me on WhatsUp +48517127733
-- ⚡ Fun fact: ![ElmoShrugGIF](https://github.com/LetsJustCodeIT/LetsJustCodeIT/assets/161778479/df5ce133-cca7-41d4-94d8-d0e3914b8cea)
+- ⚡ Fun fact:
+   ![ElmoShrugGIF](https://github.com/LetsJustCodeIT/LetsJustCodeIT/assets/161778479/df5ce133-cca7-41d4-94d8-d0e3914b8cea)
 
 
 <!---
