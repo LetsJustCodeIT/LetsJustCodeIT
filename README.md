@@ -1,11 +1,10 @@
+_______________________________________________________________________
 - 👋 Hi, I’m @LetsJustCodeIT but my real name is Rafal
 - 👀 I’m interested in everything that includes IT, cars and traveling
 - 🌱 I’m currently learning SQL 
 - 💞️ I’m looking to collaborate on database
-- 📫 You can reach me on WhatsUp +48517127733
-- ⚡ Fun fact:
-
-
+- 📫 You can reach me on WhatsUp +48**********
+________________________________________________________________________
 
 
 
